@@ -82,6 +82,11 @@ nav .nav-bar .logo a{
 }
 
 .nav-links li a{
+    font-family: Righteous;
+    font-style: normal;
+    font-weight: 200px;
+    letter-spacing: 4px;
+    
     position: relative;
   align-items: right;
   text-decoration: none;
@@ -160,3 +165,5 @@ nav .nav-bar .logo a{
                 margin-right: 0px; /* Modified margin values */
             }
         }
+
+        
